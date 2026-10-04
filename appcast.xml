@@ -3,12 +3,12 @@
   <channel>
     <title>Daysweep</title>
     <item>
-      <title>0.4.5</title>
-      <pubDate>Wed, 30 Sep 2026 20:18:17 +0000</pubDate>
-      <sparkle:version>950</sparkle:version>
-      <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+      <title>0.4.6</title>
+      <pubDate>Sun, 04 Oct 2026 06:58:02 +0000</pubDate>
+      <sparkle:version>976</sparkle:version>
+      <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/Headsup-AI-Labs/daysweep-releases/releases/download/v0.4.5/Daysweep-0.4.5.dmg" type="application/octet-stream" sparkle:edSignature="hhWJvQoR6CrGRad/rx9Af6sl6wru9pkM5qNXPvi4OcbptT9Zo4cqgzHCfJAaHEB5B755RmHeSBDbSbBwiwH4DA==" length="38101559" />
+      <enclosure url="https://github.com/Headsup-AI-Labs/daysweep-releases/releases/download/v0.4.6/Daysweep-0.4.6.dmg" type="application/octet-stream" sparkle:edSignature="fp2sa5I9XoOoHtJ2ZzW/YnXSubcizeuRHQzs6q+HX9AiOfJmcJcVETZCc4mNcsyWkp+gpTu200TE1M/hHmC8BA==" length="38756023" />
     </item>
   </channel>
 </rss>
