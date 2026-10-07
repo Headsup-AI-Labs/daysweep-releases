@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Daysweep</title>
+    <title>Berry</title>
     <item>
-      <title>0.4.6</title>
-      <pubDate>Sun, 04 Oct 2026 06:58:02 +0000</pubDate>
-      <sparkle:version>976</sparkle:version>
-      <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+      <title>0.5.0</title>
+      <pubDate>Wed, 07 Oct 2026 06:38:45 +0000</pubDate>
+      <sparkle:version>1054</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/Headsup-AI-Labs/daysweep-releases/releases/download/v0.4.6/Daysweep-0.4.6.dmg" type="application/octet-stream" sparkle:edSignature="fp2sa5I9XoOoHtJ2ZzW/YnXSubcizeuRHQzs6q+HX9AiOfJmcJcVETZCc4mNcsyWkp+gpTu200TE1M/hHmC8BA==" length="38756023" />
+      <enclosure url="https://github.com/Headsup-AI-Labs/daysweep-releases/releases/download/v0.5.0/Berry-0.5.0.dmg" type="application/octet-stream" sparkle:edSignature="YIFa8sG21FPYpX3VgQZ6+/9yrDaaNsqmdWlseJGzsqtvg17HhgH7u8FMWBNAvHzeBZ3r0nC84fc7GO+/br55AQ==" length="40542727" />
     </item>
   </channel>
 </rss>
