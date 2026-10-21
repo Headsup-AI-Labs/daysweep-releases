@@ -3,12 +3,12 @@
   <channel>
     <title>Berry</title>
     <item>
-      <title>0.5.2</title>
-      <pubDate>Thu, 08 Oct 2026 18:31:52 +0000</pubDate>
-      <sparkle:version>1106</sparkle:version>
-      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <title>0.6.0</title>
+      <pubDate>Wed, 21 Oct 2026 16:38:10 +0000</pubDate>
+      <sparkle:version>1539</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/Headsup-AI-Labs/daysweep-releases/releases/download/v0.5.2/Berry-0.5.2.dmg" type="application/octet-stream" sparkle:edSignature="tCPMbIY8REG7trWNAgxnHPSerUIOtnPe3YpqI0XM4dOIaFHSpCmxHmqXDfo7025jLdOZqAhHrdRfoQIIoXQbDw==" length="41143334" />
+      <enclosure url="https://github.com/Headsup-AI-Labs/daysweep-releases/releases/download/v0.6.0/Berry-0.6.0.dmg" type="application/octet-stream" sparkle:edSignature="v3Q0BSa3Z+21cMkxHMxvIICjXTNRiAC9FTTWGSx5EC1Lxa1tJlV597lg53kA3MOvWcIaT9fh7Q4/VgTSNXgEAg==" length="58435469" />
     </item>
   </channel>
 </rss>
